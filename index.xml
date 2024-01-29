@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>v-lesu-rodilas-elochka</repo>
-  <version>v1.0.1</version>
+  <version>v1.0.2</version>
   <next number="1" owner="stolbitsa" repo="malenkoy-elochke"/>
   <readme>
     <en>08b9f4f093692b67474169225a6b544f5f2d9047acb785673532155d488376d3</en>
@@ -46,16 +46,16 @@
     <bpm>104</bpm>
     <lowestNote>5</lowestNote>
     <tonalities>5</tonalities>
-    <video name="black-screen_0.mp4" size="4765" type="video/mp4">b9c83f2ca530cfb0a191753f17b696a29060644a4af1cbfb7e102838079ea8fe</video>
+    <video name="v-lesu-rodilas-elochka2_.mp4" size="306837" type="video/mp4">49885e9c3a2e560ef93bef8a3ad40f78ab0c92d9f92ba26aa457a161cc56b448</video>
     <notes>
-      <note number="1" values="5" ticks="247" durationTicks="96" ppq="192" velocity="0.681"/>
-      <note number="2" values="38" ticks="341" durationTicks="92" ppq="192" velocity="0.803"/>
-      <note number="3" values="38" ticks="439" durationTicks="96" ppq="192" velocity="0.689"/>
-      <note number="4" values="28" ticks="533" durationTicks="93" ppq="192" velocity="0.784"/>
-      <note number="5" values="38" ticks="628" durationTicks="91" ppq="192" velocity="0.671"/>
-      <note number="6" values="18" ticks="725" durationTicks="95" ppq="192" velocity="0.819"/>
-      <note number="7" values="5" ticks="822" durationTicks="94" ppq="192" velocity="0.719"/>
-      <note number="8" values="5" ticks="916" durationTicks="98" ppq="192" velocity="0.749"/>
+      <note number="1" values="58" ticks="115" durationTicks="96" ppq="192" velocity="0.952"/>
+      <note number="2" values="6" ticks="211" durationTicks="92" ppq="192" velocity="0.957"/>
+      <note number="3" values="6" ticks="309" durationTicks="96" ppq="192" velocity="0.947"/>
+      <note number="4" values="48" ticks="408" durationTicks="93" ppq="192" velocity="0.954"/>
+      <note number="5" values="48" ticks="504" durationTicks="91" ppq="192" velocity="0.942"/>
+      <note number="6" values="38" ticks="600" durationTicks="93" ppq="192" velocity="0.952"/>
+      <note number="7" values="28" ticks="695" durationTicks="94" ppq="192" velocity="0.912"/>
+      <note number="8" values="18" ticks="789" durationTicks="98" ppq="192" velocity="0.967"/>
     </notes>
   </exercise>
   <exercise number="4">

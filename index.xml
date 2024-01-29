@@ -2,11 +2,11 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>v-lesu-rodilas-elochka</repo>
-  <version>v1.0.0</version>
+  <version>v1.0.1</version>
   <next number="1" owner="stolbitsa" repo="malenkoy-elochke"/>
   <readme>
-    <en>0e96d528dbcb3d652993e3d46c84371e5c55a4ca942bf6557bd44e82b957539c</en>
-    <ru>763557a2a4b248aab227d61022458002e82d928eb559eeedd2d2cd05fa4510f5</ru>
+    <en>08b9f4f093692b67474169225a6b544f5f2d9047acb785673532155d488376d3</en>
+    <ru>0ca829492f72cb230a7d9d86f98a388398705c761169ae90d6e17ffca162daae</ru>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
@@ -29,18 +29,16 @@
   <exercise number="2">
     <scale>major</scale>
     <bpm>104</bpm>
-    <lowestNote>5</lowestNote>
+    <lowestNote>18</lowestNote>
     <tonalities>5</tonalities>
-    <video name="black-screen_0.mp4" size="4765" type="video/mp4">b9c83f2ca530cfb0a191753f17b696a29060644a4af1cbfb7e102838079ea8fe</video>
+    <video name="v-lesu-rodilas-elochka1_.mp4" size="379744" type="video/mp4">cb8b82a589a7f95ef561c39c3ef5b4a6d2681ffa4073d5f379e4b4a2eaef3f38</video>
     <notes>
-      <note number="1" values="5" ticks="247" durationTicks="96" ppq="192" velocity="0.681"/>
-      <note number="2" values="38" ticks="341" durationTicks="92" ppq="192" velocity="0.803"/>
-      <note number="3" values="38" ticks="439" durationTicks="96" ppq="192" velocity="0.689"/>
-      <note number="4" values="28" ticks="533" durationTicks="93" ppq="192" velocity="0.784"/>
-      <note number="5" values="38" ticks="628" durationTicks="91" ppq="192" velocity="0.671"/>
-      <note number="6" values="18" ticks="725" durationTicks="95" ppq="192" velocity="0.819"/>
-      <note number="7" values="5" ticks="822" durationTicks="94" ppq="192" velocity="0.719"/>
-      <note number="8" values="5" ticks="916" durationTicks="98" ppq="192" velocity="0.749"/>
+      <note number="1" values="18" ticks="0" durationTicks="96" ppq="192" velocity="0.982"/>
+      <note number="2" values="38" ticks="96" durationTicks="92" ppq="192" velocity="0.992"/>
+      <note number="3" values="38" ticks="192" durationTicks="96" ppq="192" velocity="1"/>
+      <note number="4" values="48" ticks="287" durationTicks="93" ppq="192" velocity="1"/>
+      <note number="5" values="68" ticks="386" durationTicks="91" ppq="192" velocity="1"/>
+      <note number="6" values="58" ticks="480" durationTicks="95" ppq="192" velocity="1"/>
     </notes>
   </exercise>
   <exercise number="3">
@@ -78,6 +76,23 @@
     </notes>
   </exercise>
   <exercise number="5">
+    <scale>major</scale>
+    <bpm>104</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>5</tonalities>
+    <video name="black-screen_0.mp4" size="4765" type="video/mp4">b9c83f2ca530cfb0a191753f17b696a29060644a4af1cbfb7e102838079ea8fe</video>
+    <notes>
+      <note number="1" values="5" ticks="247" durationTicks="96" ppq="192" velocity="0.681"/>
+      <note number="2" values="38" ticks="341" durationTicks="92" ppq="192" velocity="0.803"/>
+      <note number="3" values="38" ticks="439" durationTicks="96" ppq="192" velocity="0.689"/>
+      <note number="4" values="28" ticks="533" durationTicks="93" ppq="192" velocity="0.784"/>
+      <note number="5" values="38" ticks="628" durationTicks="91" ppq="192" velocity="0.671"/>
+      <note number="6" values="18" ticks="725" durationTicks="95" ppq="192" velocity="0.819"/>
+      <note number="7" values="5" ticks="822" durationTicks="94" ppq="192" velocity="0.719"/>
+      <note number="8" values="5" ticks="916" durationTicks="98" ppq="192" velocity="0.749"/>
+    </notes>
+  </exercise>
+  <exercise number="6">
     <scale>major</scale>
     <bpm>104</bpm>
     <lowestNote>5</lowestNote>

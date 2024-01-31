@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>v-lesu-rodilas-elochka</repo>
-  <version>v1.0.4</version>
+  <version>v1.0.5</version>
   <next number="1" owner="stolbitsa" repo="malenkoy-elochke"/>
   <readme>
     <en>08b9f4f093692b67474169225a6b544f5f2d9047acb785673532155d488376d3</en>
@@ -95,16 +95,14 @@
     <bpm>104</bpm>
     <lowestNote>5</lowestNote>
     <tonalities>5</tonalities>
-    <video name="black-screen_0.mp4" size="4765" type="video/mp4">b9c83f2ca530cfb0a191753f17b696a29060644a4af1cbfb7e102838079ea8fe</video>
+    <video name="v-lesu-rodilas-elochka5_.mp4" size="229617" type="video/mp4">5eadcd6ac14614491b70f900b46168269f578ef0a8a4fc8cf63308343d63593a</video>
     <notes>
-      <note number="1" values="5" ticks="247" durationTicks="96" ppq="192" velocity="0.681"/>
-      <note number="2" values="38" ticks="341" durationTicks="92" ppq="192" velocity="0.803"/>
-      <note number="3" values="38" ticks="439" durationTicks="96" ppq="192" velocity="0.689"/>
-      <note number="4" values="28" ticks="533" durationTicks="93" ppq="192" velocity="0.784"/>
-      <note number="5" values="38" ticks="628" durationTicks="91" ppq="192" velocity="0.671"/>
-      <note number="6" values="18" ticks="725" durationTicks="95" ppq="192" velocity="0.819"/>
-      <note number="7" values="5" ticks="822" durationTicks="94" ppq="192" velocity="0.719"/>
-      <note number="8" values="5" ticks="916" durationTicks="98" ppq="192" velocity="0.749"/>
+      <note number="1" values="5" ticks="0" durationTicks="96" ppq="192" velocity="0.681"/>
+      <note number="2" values="38" ticks="96" durationTicks="72" ppq="192" velocity="0.803"/>
+      <note number="3" values="38" ticks="193" durationTicks="96" ppq="192" velocity="0.689"/>
+      <note number="4" values="28" ticks="289" durationTicks="93" ppq="192" velocity="0.784"/>
+      <note number="5" values="38" ticks="385" durationTicks="91" ppq="192" velocity="0.671"/>
+      <note number="6" values="18" ticks="482" durationTicks="188" ppq="192" velocity="0.819"/>
     </notes>
   </exercise>
 </level>

@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>v-lesu-rodilas-elochka</repo>
-  <version>v1.0.5</version>
+  <version>v1.0.6</version>
   <next number="1" owner="stolbitsa" repo="malenkoy-elochke"/>
   <readme>
     <en>08b9f4f093692b67474169225a6b544f5f2d9047acb785673532155d488376d3</en>
@@ -17,12 +17,12 @@
     <video name="v-lesu-rodilas-elochka_.mp4" size="603141" type="video/mp4">43a9004ba2039a6f56776016866452cc7afe0eade896cb3c32f1636cf3e9dc67</video>
     <notes>
       <note number="1" values="5" ticks="247" durationTicks="96" ppq="192" velocity="0.681"/>
-      <note number="2" values="38" ticks="341" durationTicks="92" ppq="192" velocity="0.803"/>
+      <note number="2" values="38" ticks="341" durationTicks="58" ppq="192" velocity="0.803"/>
       <note number="3" values="38" ticks="439" durationTicks="96" ppq="192" velocity="0.689"/>
       <note number="4" values="28" ticks="533" durationTicks="93" ppq="192" velocity="0.784"/>
       <note number="5" values="38" ticks="628" durationTicks="91" ppq="192" velocity="0.671"/>
       <note number="6" values="18" ticks="725" durationTicks="95" ppq="192" velocity="0.819"/>
-      <note number="7" values="5" ticks="822" durationTicks="94" ppq="192" velocity="0.719"/>
+      <note number="7" values="5" ticks="822" durationTicks="58" ppq="192" velocity="0.719"/>
       <note number="8" values="5" ticks="916" durationTicks="98" ppq="192" velocity="0.749"/>
     </notes>
   </exercise>
@@ -34,7 +34,7 @@
     <video name="v-lesu-rodilas-elochka1_.mp4" size="379744" type="video/mp4">cb8b82a589a7f95ef561c39c3ef5b4a6d2681ffa4073d5f379e4b4a2eaef3f38</video>
     <notes>
       <note number="1" values="18" ticks="0" durationTicks="96" ppq="192" velocity="0.982"/>
-      <note number="2" values="38" ticks="96" durationTicks="92" ppq="192" velocity="0.992"/>
+      <note number="2" values="38" ticks="96" durationTicks="59" ppq="192" velocity="0.992"/>
       <note number="3" values="38" ticks="192" durationTicks="96" ppq="192" velocity="1"/>
       <note number="4" values="48" ticks="287" durationTicks="93" ppq="192" velocity="1"/>
       <note number="5" values="68" ticks="386" durationTicks="91" ppq="192" velocity="1"/>
@@ -49,9 +49,9 @@
     <video name="v-lesu-rodilas-elochka2_.mp4" size="306837" type="video/mp4">49885e9c3a2e560ef93bef8a3ad40f78ab0c92d9f92ba26aa457a161cc56b448</video>
     <notes>
       <note number="1" values="58" ticks="115" durationTicks="96" ppq="192" velocity="0.952"/>
-      <note number="2" values="6" ticks="211" durationTicks="92" ppq="192" velocity="0.957"/>
+      <note number="2" values="6" ticks="211" durationTicks="61" ppq="192" velocity="0.957"/>
       <note number="3" values="6" ticks="309" durationTicks="96" ppq="192" velocity="0.947"/>
-      <note number="4" values="48" ticks="408" durationTicks="93" ppq="192" velocity="0.954"/>
+      <note number="4" values="48" ticks="408" durationTicks="55" ppq="192" velocity="0.954"/>
       <note number="5" values="48" ticks="504" durationTicks="91" ppq="192" velocity="0.942"/>
       <note number="6" values="38" ticks="600" durationTicks="93" ppq="192" velocity="0.952"/>
       <note number="7" values="28" ticks="695" durationTicks="94" ppq="192" velocity="0.912"/>
@@ -66,7 +66,7 @@
     <video name="v-lesu-rodilas-elochka3_.mp4" size="215326" type="video/mp4">5f77913114ce69fc4dd1344fd0434075eeeb992fa477831e87fc800569eb1960</video>
     <notes>
       <note number="1" values="5" ticks="0" durationTicks="96" ppq="192" velocity="0.681"/>
-      <note number="2" values="38" ticks="94" durationTicks="92" ppq="192" velocity="0.803"/>
+      <note number="2" values="38" ticks="97" durationTicks="68" ppq="192" velocity="0.803"/>
       <note number="3" values="38" ticks="191" durationTicks="96" ppq="192" velocity="0.689"/>
       <note number="4" values="28" ticks="291" durationTicks="93" ppq="192" velocity="0.784"/>
       <note number="5" values="38" ticks="384" durationTicks="91" ppq="192" velocity="0.671"/>
@@ -80,9 +80,9 @@
     <tonalities>5</tonalities>
     <video name="v-lesu-rodilas-elochka4_.mp4" size="331689" type="video/mp4">b0b3aa28d49f8483ba3ef55c6d736268c2770ab97334029f8dc1b9978e6048cd</video>
     <notes>
-      <note number="1" values="58" ticks="45" durationTicks="82" ppq="192" velocity="1"/>
-      <note number="2" values="6" ticks="145" durationTicks="68" ppq="192" velocity="1"/>
-      <note number="3" values="6" ticks="241" durationTicks="79" ppq="192" velocity="1"/>
+      <note number="1" values="58" ticks="45" durationTicks="82" ppq="192" velocity="0.747"/>
+      <note number="2" values="6" ticks="145" durationTicks="68" ppq="192" velocity="0.782"/>
+      <note number="3" values="6" ticks="241" durationTicks="79" ppq="192" velocity="0.669"/>
       <note number="4" values="48" ticks="338" durationTicks="69" ppq="192" velocity="0.784"/>
       <note number="5" values="48" ticks="435" durationTicks="83" ppq="192" velocity="0.671"/>
       <note number="6" values="38" ticks="530" durationTicks="86" ppq="192" velocity="0.819"/>

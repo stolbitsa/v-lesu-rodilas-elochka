@@ -1,43 +1,4 @@
-<span id="en"><a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;<a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;</span><br><br>
-
-# The forest raised a Christmas tree
-
-["A Spruce Was Born in the Forest"](https://en.wikipedia.org/wiki/A_Spruce_Was_Born_in_the_Forest) (Russian: В лесу роди́лась ёлочка) written in 1903—1906 is one of the most popular Russian children's Christmas songs, which became a New Year song in the USSR. 
-
-According to a sociological study, the lyrics of the song take 29th place in the top 100 most popular lines of poetry in Russia.
-
-Video by https://bigpapamedia.ru/
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J9ezlKu8qpI?si=uYyojD2xww2s7RWB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-1.The forest raised a Christmas tree,
- ‘Twas silent and serene
- In winter and in summer
- It was slender and  green. (2 times)
- 
- 2.The wind sang it a lullaby:
- Sleep Christmas tree, sleep tight!
- The snow was making clothes for it:
- It was a pretty sight! (2 times)
- 
- 3.A trembling bunny put himself
- Beneath its arms so wide;
- The hungry wolf just passed him by -
- A lovely place to hide! (2 times)
- 
- 4.Some sleigh bells rang throughout the woods,
- The snow was crisp and clean,
- A horsey brought a forester
- To hew that tree so green. (2 times)
- 
- 5.And now it comes to visit us,
- With lights and garlands bright,
- While all the children dance and sing
- To greet it with delight! (2 times)
-
-![](https://github.com/stolbitsa/malenkoy-elochke/assets/149964365/8186c72b-ca97-48e6-891e-595e0f04670d)
-<br><br>
-<span id="ru"><a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;<a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;</span><br><br>
+<span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
 # В лесу родилась елочка
 [«В лесу роди́лась ёлочка»](https://ru.wikipedia.org/wiki/%D0%92_%D0%BB%D0%B5%D1%81%D1%83_%D1%80%D0%BE%D0%B4%D0%B8%D0%BB%D0%B0%D1%81%D1%8C_%D1%91%D0%BB%D0%BE%D1%87%D0%BA%D0%B0) (1906—1909) — одна из самых популярных русских детских рождественских песен, ставшая в СССР новогодней. Слова написаны [Раисой Адамовной Кудашевой](https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B4%D0%B0%D1%88%D0%B5%D0%B2%D0%B0,_%D0%A0%D0%B0%D0%B8%D1%81%D0%B0_%D0%90%D0%B4%D0%B0%D0%BC%D0%BE%D0%B2%D0%BD%D0%B0), музыка — [Леонидом Карловичем Бекманом](https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BA%D0%BC%D0%B0%D0%BD,_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4_%D0%9A%D0%B0%D1%80%D0%BB%D0%BE%D0%B2%D0%B8%D1%87). 
@@ -75,6 +36,45 @@ Video by https://bigpapamedia.ru/
 Hа праздник к нам пришла
 И много, много радости
 Детишкам принесла!
+
+![](https://github.com/stolbitsa/malenkoy-elochke/assets/149964365/8186c72b-ca97-48e6-891e-595e0f04670d)
+<br><br>
+<span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
+
+# The forest raised a Christmas tree
+
+["A Spruce Was Born in the Forest"](https://en.wikipedia.org/wiki/A_Spruce_Was_Born_in_the_Forest) (Russian: В лесу роди́лась ёлочка) written in 1903—1906 is one of the most popular Russian children's Christmas songs, which became a New Year song in the USSR. 
+
+According to a sociological study, the lyrics of the song take 29th place in the top 100 most popular lines of poetry in Russia.
+
+Video by https://bigpapamedia.ru/
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J9ezlKu8qpI?si=uYyojD2xww2s7RWB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+1.The forest raised a Christmas tree,
+ ‘Twas silent and serene
+ In winter and in summer
+ It was slender and  green. (2 times)
+ 
+ 2.The wind sang it a lullaby:
+ Sleep Christmas tree, sleep tight!
+ The snow was making clothes for it:
+ It was a pretty sight! (2 times)
+ 
+ 3.A trembling bunny put himself
+ Beneath its arms so wide;
+ The hungry wolf just passed him by -
+ A lovely place to hide! (2 times)
+ 
+ 4.Some sleigh bells rang throughout the woods,
+ The snow was crisp and clean,
+ A horsey brought a forester
+ To hew that tree so green. (2 times)
+ 
+ 5.And now it comes to visit us,
+ With lights and garlands bright,
+ While all the children dance and sing
+ To greet it with delight! (2 times)
 
 ![](https://github.com/stolbitsa/malenkoy-elochke/assets/149964365/8186c72b-ca97-48e6-891e-595e0f04670d)
 <br><br>
